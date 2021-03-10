@@ -2,7 +2,7 @@
 Apaixonado por tecnologia, corrida e querendo fazer do mundo um lugar melhor
 
 - 🔭  Trabalho como professor universitário e sou CTO de empresa de TI
-- 📫  Você pode me contatar no [Linkedin] (https://www.linkedin.com/in/claudio-nunes-b7bb0a3/) 
+- 📫  Você pode me contatar no [Linkedin](https://www.linkedin.com/in/claudio-nunes-b7bb0a3/) 
 
 
 
